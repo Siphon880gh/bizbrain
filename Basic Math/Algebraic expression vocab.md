@@ -24,4 +24,4 @@ Etymology: The term "quadratic" is derived from "quadratus," a Latin word that m
   
 If the variable n is raised to the third power, making the term 4n^3, it is called a cubic term. This is because the exponent is 3, indicating that the variable n is cubed. The term 4^3 represents the cubic component of an expression, with 4 being the coefficient that multiplies n^3.
 
-Etymology: The term "cubed" originates from geometry, where raising a number to the third power is analogous to calculating the volume of a cube. In geometry, when you have a cube with sides of length �n, the volume is �×�×�n×n×n or �3n3, which represents three-dimensional space. Thus, in mathematics, when a number is raised to the power of three, we say it is "cubed," drawing a direct analogy to the geometric concept. This terminology extends to algebra, where �3n3 signifies that �n is multiplied by itself three times.
+Etymology: The term "cubed" originates from geometry, where raising a number to the third power is analogous to calculating the volume of a cube. In geometry, when you have a cube with sides of length n, the volume is n x n x n or n^3, which represents three-dimensional space.
